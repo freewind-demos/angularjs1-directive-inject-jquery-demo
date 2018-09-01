@@ -1,7 +1,9 @@
-AngularJS1 Directive Link Demo
-==============================
+AngularJS1 Inject JQuery Demo
+=============================
 
-Do some DOM operations in `link` function of directive.
+How to inject `JQuery` to angularjs in a clear way.
+
+Thanks to <https://stackoverflow.com/a/25887776/342235>
 
 ```
 npm install
